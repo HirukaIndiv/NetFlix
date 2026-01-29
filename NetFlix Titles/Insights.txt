@@ -1,0 +1,57 @@
+INSIGHTS EXPECTED FROM NETFLIX CONTENT & STRATEGY TEAM
+
+1. CONTENT MIX AND PORTFOLIO INSIGHTS
+- Distribution of Movies vs TV Shows.
+- Genre distribution from listed_in column.
+- Genre growth by release_year.
+- Identification of underrepresented genres.
+- Duration patterns: average movie duration, TV show season count, duration buckets.
+
+2. REGIONAL AND GLOBAL EXPANSION INSIGHTS
+- Top content-producing countries.
+- Growth of content from India, Korea, Japan, Europe, etc.
+- Cross-country distribution gaps.
+- Regional content opportunity identification.
+
+3. TALENT STRATEGY (DIRECTORS AND CAST)
+- Most frequent directors and actors.
+- Talent associated with specific genres.
+- Star power indicators and regional dominance.
+
+4. RELEASE AND CONTENT FRESHNESS ANALYSIS
+- Year-wise content release trends.
+- Ratio of new vs catalog titles.
+- Seasonal patterns using date_added.
+
+5. RATING AND CERTIFICATION ANALYSIS
+- Distribution of ratings (TV-MA, PG, R, etc.).
+- Ratings by country.
+- Identification of gaps in children’s content.
+
+6. CONTENT GAP AND OPPORTUNITY ANALYSIS
+- Genre vs Country opportunity matrix.
+- Underserved genre-country pairs.
+- Patterns based on type, duration, and rating.
+
+7. COMPETITIVE STRATEGY INSIGHTS
+- Trends in content additions (old vs new).
+- Saturated genres.
+- Underperforming or declining categories.
+
+8. PERSONALIZATION AND RECOMMENDATION PREP
+- Genre clustering.
+- NLP-based similarity from descriptions.
+- Director/cast-driven grouping.
+
+9. OPERATIONAL AND DATA QUALITY INSIGHTS
+- Missing metadata checks.
+- Diversity score based on unique talent and countries.
+- Data consistency checks.
+
+10. HIGH-VALUE STRATEGIC QUESTIONS
+- Investment-friendly genres.
+- Fast-growing regions.
+- Rising talent insights.
+- Content mix evolution from 2010 onward.
+- Over-invested genres.
+- Major opportunity areas.
